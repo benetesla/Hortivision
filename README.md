@@ -2,7 +2,7 @@
 
 Saudações,
 
-Este relatório abrange o projeto de desenvolvimento ágil para um aplicativo destinado à detecção de expressões em plantas. A tecnologia empregada envolve o uso de Node.js e a biblioteca OpenCV.
+Este relatório abrange o projeto de desenvolvimento ágil para um aplicativo destinado à detecção de expressões em humanos. A tecnologia empregada envolve o uso de Node.js e a biblioteca OpenCV.
 
 ## Visão Geral do Projeto
 
