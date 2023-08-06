@@ -6,7 +6,7 @@ Este relatório abrange o projeto de desenvolvimento ágil para um aplicativo de
 
 ## Visão Geral do Projeto
 
-O projeto se concentra em utilizar práticas ágeis de desenvolvimento para criar um aplicativo inovador capaz de detectar expressões em plantas. Através da fusão da tecnologia Node.js e da biblioteca OpenCV, buscamos implementar uma ferramenta de fácil utilização, permitindo que os usuários identifiquem expressões humanas por meio de videos.
+O projeto se concentra em utilizar práticas ágeis de desenvolvimento para criar um aplicativo inovador capaz de detectar expressões humanas. Através da fusão da tecnologia Node.js e da biblioteca OpenCV, buscamos implementar uma ferramenta de fácil utilização, permitindo que os usuários identifiquem expressões humanas por meio de videos.
 
 
 ## Autores
