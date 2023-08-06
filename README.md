@@ -1,17 +1,32 @@
+# Relatório de Desenvolvimento Ágil: Aplicativo para Detecção de Expressões em Plantas utilizando Node.js e OpenCV
 
-# Relatório de Desenvolvimento Ágil: Aplicativo para Detecção de Fungos em Plantas utilizando Node.js e OpenCV
+Saudações,
 
-Bem-vindo ao repositório do projeto de desenvolvimento ágil para um aplicativo de detecção de fungos em plantas utilizando a tecnologia Node.js e a biblioteca OpenCV. Este projeto tem como objetivo criar uma solução automatizada e eficiente para identificar a presença de fungos em plantas, auxiliando agricultores e entusiastas da jardinagem a monitorar a saúde de suas plantas de forma rápida e precisa.
+Este relatório abrange o projeto de desenvolvimento ágil para um aplicativo destinado à detecção de expressões em plantas. A tecnologia empregada envolve o uso de Node.js e a biblioteca OpenCV.
 
 ## Visão Geral do Projeto
-Este projeto foca na aplicação de metodologias ágeis para o desenvolvimento de um aplicativo de detecção de fungos em plantas. Através da integração da tecnologia Node.js e a biblioteca OpenCV, nosso objetivo é criar uma ferramenta de fácil utilização que permita aos usuários identificar infecções fúngicas nas plantas por meio de fotos tiradas com dispositivos móveis ou câmeras.
+
+O projeto se concentra em utilizar práticas ágeis de desenvolvimento para criar um aplicativo inovador capaz de detectar expressões em plantas. Através da fusão da tecnologia Node.js e da biblioteca OpenCV, buscamos implementar uma ferramenta de fácil utilização, permitindo que os usuários identifiquem expressões humanas por meio de videos.
 
 ## Funcionalidades Principais
-Captura de Imagem: Os usuários podem capturar imagens das plantas afetadas usando a câmera do dispositivo.
-Processamento de Imagem: Utilizando a biblioteca OpenCV junto com Node.js, as imagens são processadas para identificar padrões de infecção por fungos.
-Detecção de Fungos: O algoritmo de detecção identifica áreas suspeitas de infecção nas plantas.
-Resultados em Tempo Real: Os resultados da detecção são exibidos em tempo real na tela do aplicativo.
-Histórico e Comparação: Os usuários podem visualizar o histórico de detecções e comparar o progresso da infecção ao longo do tempo.
+
+O aplicativo em desenvolvimento apresenta funcionalidades-chave que visam aprimorar a experiência dos usuários:
+
+1. **Captura de Imagem:**
+   Os usuários têm a capacidade de capturar imagens das plantas usando a câmera de seus dispositivos.
+
+2. **Processamento de Imagem:**
+   Através da integração da biblioteca OpenCV com o Node.js, as imagens capturadas passam por um processo de processamento para identificar padrões correspondentes a expressões humanas.
+
+3. **Resultados em Tempo Real:**
+   Os resultados provenientes da detecção das expressões são prontamente exibidos em tempo real na interface do aplicativo.
+
+Temos como objetivo empregar metodologias ágeis para garantir a eficiência do desenvolvimento e a entrega de um aplicativo de alta qualidade, trazendo inovação ao campo da detecção de expressões em humanos.
+
+Atenciosamente,
+[Seu Nome]
+[Seu Cargo]
+[Seu Contato]
 
 
 ## Autores
